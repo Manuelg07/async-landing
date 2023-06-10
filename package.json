@@ -4,8 +4,9 @@
   "description": "prueba de pagina con asincronia landing",
   "main": "index.js",
   "scripts": {
-    "gh-pages": "gh-pages -d src"
-  },
+    "deploy": "gh-pages -d ./src"
+  }
+  ,
   "author": "",
   "license": "ISC",
   "dependencies": {
