@@ -1,0 +1,14 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "prueba de pagina con asincronia landing",
+  "main": "index.js",
+  "scripts": {
+    "gh-pages": "gh-pages -d src"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
